@@ -23,6 +23,7 @@ import java.util.List;
 import static com.hankcs.hanlp.corpus.tag.Nature.n;
 
 /**
+ * czzz:强烈关注
  * 演示自定义词性,以及往词典中插入自定义词性的词语
  *
  * @author hankcs
